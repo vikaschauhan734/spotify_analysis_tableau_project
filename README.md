@@ -28,3 +28,7 @@ Using the Spotify dataset, this analysis provides insights into track popularity
      - **Calculate Total Duration**: Summate the duration of all tracks per artist.
      - **Pie or Donut Chart Visualization**: Display each artist's contribution to the overall track duration as a proportion of the dataset.
      - **Filter for Top 10 Artists**: Focus on the top 10 artists by total track duration to highlight major contributors.
+
+![](1.png)
+![](2.png)
+![](3.png)
